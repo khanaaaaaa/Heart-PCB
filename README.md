@@ -1,5 +1,7 @@
 # Heart-PCB
 
+A starter project through Stasis which I made a heart shaped version, was a bit intimidating at first but somehow pulled through. Also had to redo the pcb because I couldn't figure out where I went wrong previously.
+
 Schematic:
 <img width="1175" height="716" alt="image" src="https://github.com/user-attachments/assets/3afece7f-18a3-470d-af1c-7a33b011d08f" />
 
